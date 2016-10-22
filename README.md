@@ -1,2 +1,2 @@
-# node-on-ios
+# nodejs-on-ios
 Node.js running on iOS using JXCore
